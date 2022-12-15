@@ -21,7 +21,7 @@ class Dog():
 
     def __del__(self):
         print("Object got deleted")
-
+// The above code will be saved as test2.py
 // Write the below code in another file
 // How to call a class in another file
 
