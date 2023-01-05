@@ -15,6 +15,7 @@ class Child(Base):
 	# Constructor
 	def __init__(self):
 		self.age = 15
+		# You have to mandatory do the below statement to Initialize the Super class
 		super().__init__()
 
 	# To get name
